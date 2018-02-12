@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "emailExtractor", "emailExtractor\emailExtractor.csproj", "{4FC0BF2F-DD23-49A4-B8DB-562EBCDE4B51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FC0BF2F-DD23-49A4-B8DB-562EBCDE4B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FC0BF2F-DD23-49A4-B8DB-562EBCDE4B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FC0BF2F-DD23-49A4-B8DB-562EBCDE4B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FC0BF2F-DD23-49A4-B8DB-562EBCDE4B51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30402CD9-BC3A-4BD0-A3FF-75829FA96025}
+	EndGlobalSection
+EndGlobal

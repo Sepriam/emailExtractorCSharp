@@ -1,0 +1,7 @@
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\emailExtractor\emailExtractor\bin\Debug\emailExtractor.exe.config
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\emailExtractor\emailExtractor\bin\Debug\emailExtractor.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\emailExtractor\emailExtractor\bin\Debug\emailExtractor.pdb
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\emailExtractor\emailExtractor\obj\Debug\emailExtractor.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\emailExtractor\emailExtractor\obj\Debug\emailExtractor.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\emailExtractor\emailExtractor\obj\Debug\emailExtractor.exe
+C:\Users\Matt\Documents\Visual Studio 2017\Projects\emailExtractor\emailExtractor\obj\Debug\emailExtractor.pdb
